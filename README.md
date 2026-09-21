@@ -8,7 +8,7 @@ A personal portfolio site built from scratch with a warm editorial aesthetic. De
 
 ## About
 
-I'm Cameron, a 19-year-old front-end developer based in Texas. I'm currently studying Web Design & Development at TSTC while independently building projects and completing industry certifications. This portfolio is the hub that ties everything together.
+I'm Cameron, a front-end developer based in Texas. I'm currently working toward a Computer Science associate's degree at Central Texas College (online), with plans to transfer into a four-year CS program, while independently building projects and completing industry certifications. This portfolio is the hub that ties everything together.
 
 ---
 
@@ -56,6 +56,6 @@ open index.html
 
 ## Contact
 
-- 📧 Cameronhenry310@email.com
+- 📧 cameronhenry310@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/cameron-henry-8b0801382/)
 - 🐙 [GitHub](https://github.com/DeveloperCameron)
